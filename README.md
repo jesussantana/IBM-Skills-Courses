@@ -1,6 +1,6 @@
 IBM Skills Courses
 ==============================
-![IBM Skills Network](https://esmarketingdigital.com/images/IBM-Skills.png)
+![IBM Skills Network](https://esmarketingdigital.com/images/ibm-skills.png)
 
 ## IBM Data Science & Machine Learning Courses to Increase your Skills Development
 
