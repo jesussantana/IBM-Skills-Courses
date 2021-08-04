@@ -22,7 +22,7 @@ IBM Skills Courses
 ### II. [IBM Data Analysis with Python DA0101EN](https://github.com/jesussantana/IBM-Data-Analysis-with-Python-DA0101EN)  
 
 - Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, predict future trends from data, and more!.  
-- [IBM Credential](https://www.credly.com/earner/earned/badge/730e7fb2-186e-4527-b8b2-bf0db1cfce05)
+- [IBM Data Analysis with Python Credential](https://www.credly.com/earner/earned/badge/730e7fb2-186e-4527-b8b2-bf0db1cfce05)
 ### II. [IBM Data Visualiztion with Python DV0101EN](https://github.com/jesussantana/IBM-Data-Visualization-with-Python-DV0101EN)
 - The main goal of this course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, seaborn, and Folium.
-- [IBM Credential](https://www.credly.com/earner/earned/badge/8efefd76-672c-4400-9995-29af176bde17)
+- [IBM Data Visualiztion with Python Credential](https://www.credly.com/earner/earned/badge/8efefd76-672c-4400-9995-29af176bde17)
