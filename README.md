@@ -19,7 +19,7 @@ IBM Skills Courses
 - [IBM Deep Learning Fundamentals Credential](https://www.credly.com/badges/97756631-24ed-4306-9722-1937340f8d76/public_url)  
 ---
 
-## [IBM Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2)
+## [IBM Deep Learning with TensorFlow](https://github.com/jesussantana/IBM-Deep-Learning-with-TensorFlow)
 - In this TensorFlow course, you will be able to learn the basic concepts of TensorFlow, the main functions, operations and the execution pipeline:
 
   - Introduction to TensorFlow
