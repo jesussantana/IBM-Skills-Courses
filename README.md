@@ -17,7 +17,17 @@ IBM Skills Courses
   - Why is deep learning so powerful and what can it be used for?
   - Be part of a rapidly growing field in data science; there's no better time than now to get started with neural networks.  
 - [IBM Deep Learning Fundamentals Credential](https://www.credly.com/badges/97756631-24ed-4306-9722-1937340f8d76/public_url)  
+---
 
+## [IBM Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+v2)
+- In this TensorFlow course, you will be able to learn the basic concepts of TensorFlow, the main functions, operations and the execution pipeline:
+
+  - Introduction to TensorFlow
+  - Convolutional Neural Networks (CNN)
+  - Recurrent Neural Networks (RNN)
+  - Unsupervised Learning
+  - Autoencoders 
+- [IBM Deep Learning with TensorFlow Credential](https://www.credly.com/badges/7574f37f-7d67-4acf-bbfb-cd2cbf76015a/public_url) 
 ---
 ## [IBM Machine Learnig with Python](https://github.com/jesussantana/IBM-Machine-Learning-with-Python)
 - This Machine Learning with Python course dives into the basics of machine learning using an approachable, and well-known, programming language. You'll learn about Supervised vs Unsupervised Learning, look into how Statistical Modeling relates to Machine Learning, and do a comparison of each.
